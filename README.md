@@ -16,4 +16,4 @@ You’ve now made an atomic change in code. Before any commits, make sure you se
 12. Add the file.
 13. Commit the file.
 14. Push up the changes.
-15. Create a pull request back from your repository, to mine; sstutsman/assignment-one
+15. Create a Pull Request back from your repository, to mine; sstutsman/assignment-one. For the request, the base fork will be sstutsman/assignment-one. For the head fork, it will be YourUserName/assignment-one
