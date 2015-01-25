@@ -7,7 +7,7 @@ You’ve now made an atomic change in code. Before any commits, make sure you se
 
 4. Add your created files.
 5. Commit your changes. Make sure your commit message is meaningful and describes what changes you made.
-6. From those in your newly created directory, change both source files.
+6. From those in your newly created directory, change both source files. What you change does not matter. I don't expect you to run it.
 7. Commit your changes.
 8. Push up your changes to master.
 9. Create a pull request back from your repository, to sstutsman/assignment-one
