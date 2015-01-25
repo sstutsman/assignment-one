@@ -1,6 +1,6 @@
 
 1. You should be reading this file from your own file system, not a web browser.
-2. Navigate to the src/ directory. In here, you will see some pretend-source code.
+2. Navigate to the src/ directory. In here, you will see some source code.
 3. Create a new folder named exactly your GitHub username. Then copy, not move, the source code files into the new folder.
 
 You’ve now made an atomic change in code. Before any commits, make sure you set your user.name and user.email to match up with your GitHub user name and email.
