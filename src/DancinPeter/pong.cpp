@@ -1,5 +1,8 @@
 /*
 
+// This is my modification for assignment 1.
+// Peter Thompson
+
 Pong
 
 Using the Internet Control Message Protocol (ICMP) ECHO_REQUEST

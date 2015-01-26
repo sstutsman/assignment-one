@@ -1,4 +1,7 @@
 /*
+* // This is my modification for assignment 1.
+* // Peter Thompson
+*
 * Copyright (c) 1989 The Regents of the University of California.
 * All rights reserved.
 *
