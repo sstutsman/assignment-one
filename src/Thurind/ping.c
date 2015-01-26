@@ -167,7 +167,7 @@ int datalen = DEFDATALEN;
 int s;				/* socket file descriptor */
 u_char outpack[MAXPACKET];
 char BSPACE = '\b';		/* characters written for flood */
-char DOT = '.';
+char DOT = ',';
 static char *hostname;
 static int ident;		/* process id to identify our packets */
 
@@ -219,25 +219,6 @@ main(int argc, char *argv[])
   static char *null = NULL;
   __environ = &null;
   am_i_root = (getuid()==0);
-
-  /*
-  * Pull this stuff up front so we can drop root if desired.
-  */
-  if (!(proto = getprotobyname("icmp"))) {
-    (void)fprintf(stderr, "ping: unknown protocol icmp.\n");
-    exit(2);
-  }
-  if ((s = socket(AF_INET, SOCK_RAW, proto->p_proto)) < 0) {
-    if (errno==EPERM) {
-      fprintf(stderr, "ping: ping must run as root\n");
-    }
-    else perror("ping: socket");
-    exit(2);
-  }
-
-  #ifdef SAFE_TO_DROP_ROOT
-  setuid(getuid());
-  #endif
 
   preload = 0;
   datap = &outpack[8 + sizeof(struct timeval)];
