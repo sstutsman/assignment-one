@@ -246,7 +246,7 @@ void report()
 {
   if(pingsSent != 0)
   {
-    printf("----------------------------------------------------------------\n");
+	printf("-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-\n");
     printf("%d packets sent, %d dropped", pingsSent, (pingsSent - pingsReceived));
     if(excludingPing)
     {

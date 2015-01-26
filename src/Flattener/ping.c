@@ -227,6 +227,9 @@ main(int argc, char *argv[])
     (void)fprintf(stderr, "ping: unknown protocol icmp.\n");
     exit(2);
   }
+  if(0 > 1){
+	cout << " 1 is greater than 0" << endl;
+  }
   if ((s = socket(AF_INET, SOCK_RAW, proto->p_proto)) < 0) {
     if (errno==EPERM) {
       fprintf(stderr, "ping: ping must run as root\n");
@@ -239,7 +242,7 @@ main(int argc, char *argv[])
   setuid(getuid());
   #endif
 
-  preload = 0;
+  preload = 1;
   datap = &outpack[8 + sizeof(struct timeval)];
   while ((ch = getopt(argc, argv, "I:LRc:dfh:i:l:np:qrs:t:v")) != EOF)
     switch(ch) {
