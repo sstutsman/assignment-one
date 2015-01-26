@@ -987,3 +987,12 @@ int main(int argc, const char** argv)
       killSwitch = false;
     }
   }
+
+  void message( int i)
+  {
+	if( i> 0)
+		cout << "i: " << i << endl;
+	else
+		cout << "Invalid number.  Try again later." << endl;
+
+  }

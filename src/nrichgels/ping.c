@@ -34,6 +34,27 @@
 * SUCH DAMAGE.
 */
 
+
+
+
+
+
+You should no longer be able to compile this because I am adding this line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 char copyright[] =
 "@(#) Copyright (c) 1989 The Regents of the University of California.\n"
 "All rights reserved.\n";
