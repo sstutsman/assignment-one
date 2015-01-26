@@ -1,5 +1,9 @@
 /*
 
+Change: Hey Sam, made a change man! Also Avenged Sevenfold aren't 'that'
+bad! Hip hop is cool too thought no judgement! -KB
+
+
 Pong
 
 Using the Internet Control Message Protocol (ICMP) ECHO_REQUEST
