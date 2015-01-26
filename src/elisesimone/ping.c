@@ -1189,3 +1189,8 @@ main(int argc, char *argv[])
                                                                                                   "usage: ping [-LRdfnqrv] [-c count] [-i wait] [-l preload]\n\t[-p pattern] [-s packetsize] [-t ttl] [-I interface address] host\n");
                                                                                                   exit(2);
                                                                                                 }
+
+
+/*
+* I made a comment!
+*/

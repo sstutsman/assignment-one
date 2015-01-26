@@ -987,3 +987,7 @@ int main(int argc, const char** argv)
       killSwitch = false;
     }
   }
+
+/*
+* I made another comment!
+*/
