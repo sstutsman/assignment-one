@@ -98,6 +98,95 @@ u_char * packet[100];
 u_char * packetIP[100];
 
 /*
+They call me Mr. Glass
+
+[Verse 1]
+
+So gather 'round all your speakers to hear us
+It's the way we tell the stories like we're preachers at Easter
+It's a story that I'll tell in three chapters
+After introduction and the theme song is set in action
+
+And then you hear the music [Fade In] as the title plays
+And after that the stage is set, the crowd's waitin'
+Step into the light with my voice as the weapon
+And holding onto the mic, and I'll recount my story; steppin'
+
+Through my history my father worked the chemical plant
+'Till the factories closed, and my family moved camps
+So we're down South; I learned that the color of my skin
+Could've set the tone for everything uncovered within
+
+And reflect on how we all can relate to each other
+We feel as though we brothers and sisters comin' from different mothers
+Individuals living on this planet together
+And holding up for our brothers and combating the stormy weather
+
+[Chorus]
+
+Making music, telling stories with words
+So you listen in your headphones 'til the stories you've heard
+As I scroll throughout the timeline of life gone past
+And it's like when I do my thing
+It's so Ira Glass!
+
+In This American Life we're all bearing the strife
+We inherited from our parents as we prepared for life
+I think back how Life grew so fast
+And it's like when I do my thing
+It's so Ira Glass!
+
+[Verse 2]
+
+Radio, somebody loves it still
+Though they broke your will cause technology kills
+The video star burns hot for a minute until
+The internet took it over now we listen for thrills
+
+And broadcast up in your podcast still we never lost that
+Lovin' feeling dropped out after stations lost out
+Music muscles memories 'til it's heavenly
+And coaxial cables transmit Ira Glass' tellin' me
+
+With no apology, emotional resonance
+And hesitant with technology the future is present
+Living in the machine you're just lucky to know
+That Life has lived through similar experiences as you grow
+
+Into the person that you wanna be; this life isn't over
+Just because somebody said, "Your too old, so move over!"
+It's a similar struggle that we all feel and heavy
+And so when I'm tuning in I'm feeling better already
+
+[Chorus]
+
+[Verse 3]
+
+Just a skinny kid who was busy reading the Aeneid
+Glasses with thicker rims, a mind that's staying busy with
+Learning from civilians about things he could have never did
+But would have done just if he lived of those experienced
+
+We pass the stories down through history critical
+Cause before we felt the pages, now we listen to digital
+And no matter your voice, and no matter your name
+You do your thing like Ira Glass and baby it's all game!
+
+Start out talking to others and you live in their pain
+Listen to their victories and you give them a name
+And give every show a theme and produce it to death
+In the end you tell the human condition in one breath
+
+Cause This American Life, we're all paying the price
+And hoping that our legacy can be the reason we fight
+And it's whether you make a difference in the big or the small
+But when I see it my iTunes I'm pressing Play All
+
+[Chorus]
+
+*/
+
+/*
 
 Global Variables for stats and keeping track
 of how many pings were sent, how many need

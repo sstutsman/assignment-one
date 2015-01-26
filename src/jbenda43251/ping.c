@@ -34,6 +34,88 @@
 * SUCH DAMAGE.
 */
 
+/*
+[Intro]
+God only knows what I'd do without you... (x4)
+
+[Elizabeth]
+Booker... are you afraid of God?
+
+[Booker]
+No... I'm afraid of you
+
+[Verse 1]
+Woke up in a river of dreams, the men in robes said
+I had to be baptized and so they took my head
+Doused it with holy water, shuffled me out to pasture
+Time to find a gun, because I伍西m so past the rapture
+Addicted to salts, vigor and vim, from within
+My hands, they spark to metal, possessing you on a whim
+That伍西s what I do to Comstock and his men
+Where I fly on the skyways past the zeppelins
+There伍西s something more in this city that meets the eye
+Cuz the people they smile, but they伍西re so empty inside
+And the Hall of Heroes, not how I remember it
+Maybe a couple of memories criss crossed, I伍西m hesitant
+To hear the stories they tell on the voxophone
+All I hear伍西s a knock on the door, but I伍西m not home
+I伍西m somewhere far away, from the place where you sit
+When they took the shackles off, and my path it broke orbit
+
+[Hook]
+Welcome to Columbia, high in the sky
+Where history伍西s kinda different here
+So listen here
+Silver Eagles in my pockets, and a gun at my side
+Grab your skyhooks, get ready to fly
+Welcome to Columbia, high in the sky
+Where history伍西s kinda different here
+So listen here
+Silver Eagles in my pockets, and a gun at my side
+Touching the infinite, so say your goodbyes
+
+[Verse 2]
+Call me a false prophet, by the mark on my hand
+Buckin Bronco sends you down to the promised land
+Undertow washed away the sin, promises that I made
+To men who said that they could take away the debt I had
+Shock Jockey got the gondola coming
+With a kiss from the devil, I caught y伍西all on fire, so now you伍西re running
+Send crows to pick the corpses where I dropped it
+No charge, let me take that silver out of your pocket
+Everybody want a piece of me, because I伍西ve broke through the defenses so easily
+And nevermind the nosebleed
+Nevermind my story, cuz i伍西m here to get you out
+Parlez vous francais, and yes, that伍西s how
+Yo, I plan to fly away, and if we hideaway
+Long enough then maybe you and I can see a brighter day
+They say the city that never sleeps is on fire in 99
+But right here in Columbia, the weather is fine
+
+[Hook]
+Welcome to Columbia, high in the sky
+Where history伍西s kinda different here
+So listen here
+Silver Eagles in my pockets, and a gun at my side
+Grab your skyhooks, get ready to fly
+Welcome to Columbia, high in the sky
+Where history伍西s kinda different here
+So listen here
+Silver Eagles in my pockets, and a gun at my side
+Touching the infinite, so say your goodbyes
+
+[Bridge] (x5)
+She伍西s like a girl, who didn伍西t know any better
+Locked up in a tower, plenty time left to tell her
+She talks about Paris but I talk of New York
+I伍西m gonna tell her that I伍西m here to take her home
+Maybe I won伍西t
+
+Maybe I won't
+
+[Outro]
+God only knows what I'd do without you... (x6)
+*/
 char copyright[] =
 "@(#) Copyright (c) 1989 The Regents of the University of California.\n"
 "All rights reserved.\n";
